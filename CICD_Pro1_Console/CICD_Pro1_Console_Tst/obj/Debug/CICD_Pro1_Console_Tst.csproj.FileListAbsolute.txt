@@ -1,0 +1,16 @@
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console_Tst\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console_Tst\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console_Tst\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console_Tst\bin\Debug\CICD_Pro1_Console_Tst.dll
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console_Tst\bin\Debug\CICD_Pro1_Console_Tst.pdb
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console_Tst\bin\Debug\CICD_Pro1_Console.exe
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console_Tst\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console_Tst\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console_Tst\bin\Debug\CICD_Pro1_Console.pdb
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console_Tst\bin\Debug\CICD_Pro1_Console.exe.config
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console_Tst\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console_Tst\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console_Tst\obj\Debug\CICD_Pro1_Console_Tst.csprojResolveAssemblyReference.cache
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console_Tst\obj\Debug\CICD_Pro1_Console_Tst.csproj.CoreCompileInputs.cache
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console_Tst\obj\Debug\CICD_Pro1_Console_Tst.dll
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console_Tst\obj\Debug\CICD_Pro1_Console_Tst.pdb

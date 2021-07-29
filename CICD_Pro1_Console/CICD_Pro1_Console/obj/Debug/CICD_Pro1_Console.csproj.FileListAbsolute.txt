@@ -1,0 +1,6 @@
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console\bin\Debug\CICD_Pro1_Console.exe.config
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console\bin\Debug\CICD_Pro1_Console.exe
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console\bin\Debug\CICD_Pro1_Console.pdb
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console\obj\Debug\CICD_Pro1_Console.csproj.CoreCompileInputs.cache
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console\obj\Debug\CICD_Pro1_Console.exe
+C:\CICD\Dot Net Project\CICD_Pro1_Console\CICD_Pro1_Console\obj\Debug\CICD_Pro1_Console.pdb
